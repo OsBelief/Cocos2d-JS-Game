@@ -1,0 +1,15 @@
+info face="New Super Mario Font U" size=84 bold=1 italic=0 charset="" unicode=1 stretchH=110 smooth=1 aa=1 padding=2,4,4,2 spacing=0,0 outline=0
+common lineHeight=93 base=75 scaleW=512 scaleH=64 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="number84_0.png"
+chars count=11
+char id=44   x=470   y=0     width=22    height=26    xoffset=1     yoffset=62    xadvance=23    page=0  chnl=15
+char id=48   x=244   y=0     width=43    height=59    xoffset=-3    yoffset=19    xadvance=38    page=0  chnl=15
+char id=49   x=287   y=0     width=38    height=59    xoffset=-2    yoffset=19    xadvance=34    page=0  chnl=15
+char id=50   x=149   y=0     width=48    height=59    xoffset=-3    yoffset=19    xadvance=44    page=0  chnl=15
+char id=51   x=376   y=0     width=47    height=58    xoffset=-2    yoffset=20    xadvance=43    page=0  chnl=15
+char id=52   x=325   y=0     width=51    height=58    xoffset=-3    yoffset=20    xadvance=46    page=0  chnl=15
+char id=53   x=197   y=0     width=47    height=59    xoffset=-3    yoffset=19    xadvance=42    page=0  chnl=15
+char id=54   x=0     y=0     width=52    height=63    xoffset=-3    yoffset=15    xadvance=47    page=0  chnl=15
+char id=55   x=423   y=0     width=47    height=54    xoffset=-3    yoffset=24    xadvance=42    page=0  chnl=15
+char id=56   x=100   y=0     width=49    height=60    xoffset=-3    yoffset=18    xadvance=45    page=0  chnl=15
+char id=57   x=52    y=0     width=48    height=61    xoffset=-3    yoffset=17    xadvance=43    page=0  chnl=15

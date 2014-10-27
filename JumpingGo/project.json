@@ -1,0 +1,27 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 0,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/GameScene.js",
+        "src/sprite/BarSprite.js",
+        "src/sprite/BoxSprite.js",
+        "src/sprite/EyeSprite.js",
+        "src/sprite/FingerSprite.js",
+        "src/sprite/BackgroundSprite.js",
+        "src/globals.js",
+        "src/sprite/ScoreLabel.js",
+        "src/layer/GameOverLayer.js",
+        "src/layer/LeftGameLayer.js",
+        "src/layer/RightGameLayer.js"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 1,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/util/GameConfig.js",
+        "src/LoadScene.js",
+        "src/game/GameScene.js",
+        "src/game/layer/AnimalsLayer.js",
+        "src/game/sprite/AnimalSprite.js",
+        "src/game/layer/GuideLayer.js",
+        "src/game/layer/HelpLayer.js",
+        "src/game/layer/GameStatusLayer.js",
+        "src/game/layer/TaskHelperLayer.js",
+        "src/game/layer/DownloadAppLayer.js"
+    ]
+}

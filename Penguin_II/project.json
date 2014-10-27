@@ -1,0 +1,22 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/GameScene.js",
+        "src/util/TouchEventListener.js",
+        "src/sprite/PenguinSprite.js",
+        "src/sprite/BearSprite.js",
+        "src/layer/BackgroundLayer.js",
+        "src/util/FreeFallAction.js"
+    ]
+}

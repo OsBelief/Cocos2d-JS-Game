@@ -1,0 +1,1700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="1ad9fb32-051d-47e8-8bb2-c008279f994a" name="Default" comment="修改了大量bug">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/1_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/1_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/2_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/2_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/3_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/3_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/4_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/4_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/5_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/5_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/6_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/6_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/7_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/7_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/8_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/8_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/9_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/9_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/ButtonReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/CheckBoxReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/res/HD/CloseNormal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/res/Normal/CloseNormal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/res/HD/CloseSelected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/res/Normal/CloseSelected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/res/HD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/res/HD/HelloWorld.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/res/Normal/HelloWorld.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/ImageViewReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/LabelAtlasReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/LabelBMFontReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/LabelReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/LayoutReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/ListViewReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/LoadingBarReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/res/Normal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/PageViewReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/ScrollViewReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/SliderReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/TextFieldReader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/action" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions3d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/animation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/audio" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/base-classes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/base-nodes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/baseBtn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/baseBtn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/store/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/store/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/themeselect/bigLevelChoose_iphone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/themeselect/bigLevelChoose_iphone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external/box2d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/register/btn_Close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/store/btn_Close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/ui/btn_Close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/register/btn_Close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/store/btn_Close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/ui/btn_Close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/register/btn_OK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/btn_OK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/ui/btn_OK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/register/btn_OK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/btn_OK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/ui/btn_OK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/btn_help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/btn_help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/btn_store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/btn_store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/button_end_continue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/ui/button_end_continue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/button_end_continue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/ui/button_end_continue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/button_end_menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/button_end_menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/ui/button_end_menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/button_end_menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/button_end_menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/ui/button_end_menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/button_music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/button_music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/button_music_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/button_music_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccpool" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external/chipmunk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/register/choosePlayer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/register/choosePlayer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/clipping-nodes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/cocoa" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/compiler/compiler.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/compiler" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/components" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/compression" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/datas" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/display" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/player_infor/editPlayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/player_infor/editPlayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/player_infor/editPlayerAttri.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/player_infor/editPlayerAttri.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/register/editbg_a.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/register/editbg_a.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/editbox" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/effects" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/event-manager" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/failure/fail_frame.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/failure/fail_frame.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/failure" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/failure" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/failure" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/res/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/themeselect/frameBtnBase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/themeselect/frameBtnBase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_bg_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_bg_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_common.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_common.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/gl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/ios/ios-sim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/ios" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/failure/item5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/failure/item5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/jsdoc_toolkit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/labels" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/labelttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/layer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/layers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/layouts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/lib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/licenses" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/menus" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/motion-streak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/themeselect/msgFrame.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/themeselect/msgFrame.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/node-grid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/parallax" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/particle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/pause_iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/pause_iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/physics" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/physics" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external/pluginx/platform" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/player_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/player_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/player_infor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/player_infor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external/pluginx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/progress-timer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/register" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/register" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/register/register_player.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/register/register_player.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/render-texture" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/s_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/s_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/s_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/s_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/s_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/s_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/scenes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/scrollview" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/shaders" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/shape-nodes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shopping" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external/socketio" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/spine" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/sprite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/start" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/start_char_move.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/start_char_move.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/start_ipad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/start_ipad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/start_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/start_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/store/store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/store/store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/support" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/system" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_bg_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_bg_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_indicate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_indicate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/text-input" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/textures" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/themeselect/theme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/themeselect/theme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/theme_map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/theme_select" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/themeselect/themechoose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/themeselect/themechoose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/themeselect" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/themeselect" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/transitions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/trigger" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/tutorial_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/tutorial_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/tutorial_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/tutorial_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/tutorial_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/tutorial_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/tutorial_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/tutorial_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/tutorial_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/tutorial_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/utils" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/world.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/world.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/AUTHORS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/Base64Images.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/base-nodes/BaseNodesPropertyDefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/base-nodes/BaseNodesWebGL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/sprite/BasicSkillSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/utils/BinaryLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/ButtonReader/ButtonReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCAction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionCamera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionCatmullRom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionEase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/action/CCActionFrame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions3d/CCActionGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions3d/CCActionGrid3D.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionInstant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionInterval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCActionManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/action/CCActionManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/action/CCActionNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/action/CCActionObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions3d/CCActionPageTurn3D.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/progress-timer/CCActionProgressTimer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions3d/CCActionTiledGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionTween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/cocoa/CCAffineTransform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCAnimation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCAnimationCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/CCArmature.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/animation/CCArmatureAnimation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCArmatureDataManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCArmatureDefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCAtlasNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/audio/CCAudio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBAnimationManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBKeyframe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBReaderUtil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBRelativePositioning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBSequence.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBValue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCBakeSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/display/CCBatchNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/CCBone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/CCBoot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCCamera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCClass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/clipping-nodes/CCClippingNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/physics/CCColliderDetector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComAttribute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComAudio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComRender.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCCommon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComponentContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCConfiguration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlColourPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlHuePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCControlLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlPotentiometer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlSaturationBrightnessPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlSlider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlStepper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlSwitch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCDataReaderHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/datas/CCDatas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/CCDebugger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/display/CCDecorativeDisplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDirector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDirectorWebGL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/display/CCDisplayFactory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/display/CCDisplayManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/shape-nodes/CCDrawNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDrawingPrimitivesCanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDrawingPrimitivesWebGL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCEGLView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/editbox/CCEditBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEventExtension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEventListener.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEventManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/shaders/CCGLProgram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/shaders/CCGLStateCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/cocoa/CCGeometry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/effects/CCGrabber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/effects/CCGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/text-input/CCIMEDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCInputExtension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCInputManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCInvocation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/labels/CCLabelAtlas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/labels/CCLabelBMFont.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/labelttf/CCLabelTTF.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/layers/CCLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/layers/CCLayerPropertyDefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/layers/CCLayerWebGL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/scenes/CCLoaderScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCLoaders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCMacro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/menus/CCMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/menus/CCMenuItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCMenuPassive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/motion-streak/CCMotionStreak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/node-grid/CCNodeGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCNodeLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCNodeLoaderLibrary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/particle/CCPNGReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/parallax/CCParallaxNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/particle/CCParticleBatchNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/particle/CCParticleExamples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/particle/CCParticleSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/physics/CCPhysicsDebugNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/physics/CCPhysicsSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/support/CCPointExtension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccpool/CCPool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/animation/CCProcessBase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/progress-timer/CCProgressTimer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/base-classes/CCProtectedNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/render-texture/CCRenderTexture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCSAXParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCScale9Sprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/scenes/CCScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/scenes/CCSceneFile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCScheduler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCScreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/scrollview/CCScrollView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/shaders/CCShaderCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/shaders/CCShaders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/spine/CCSkeleton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/spine/CCSkeletonAnimation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/display/CCSkin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/scrollview/CCSorting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteBatchNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteFrame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteFrameCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCSpriteFrameCacheHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCSpriteLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTGAlib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/particle/CCTIFFReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXObjectGroup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXTiledMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXXMLParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/scrollview/CCTableView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/text-input/CCTextFieldTTF.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/textures/CCTexture2D.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/textures/CCTextureAtlas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/textures/CCTextureCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTileMapAtlas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCTouch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCTransformHelp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/transitions/CCTransition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/transitions/CCTransitionPageTurn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/transitions/CCTransitionProgress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/animation/CCTween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCTweenFunction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCTypesPropertyDefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCTypesWebGL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCUtilMath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/support/CCVertex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCVisibleRect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/editbox/CCdomNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/CheckBoxReader/CheckBoxReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/CocoStudio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/system/CocosGUI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/sprite/CoinSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/theme_select/DevelopingDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/FindYourSister.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/GUIReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/GameConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/failure/GameFailureScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/layer/GamePauseLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/GameScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/layer/GameStateLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/start/HelpLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/ImageViewReader/ImageViewReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/licenses/LICENSE_cocos2d-html5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/licenses/LICENSE_cocos2d-x.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/licenses/LICENSE_zlib.js.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/LabelAtlasReader/LabelAtlasReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/LabelBMFontReader/LabelBMFontReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/LabelReader/LabelReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/labelttf/LabelTTFPropertyDefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/labelttf/LabelTTFWebGL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/LayoutReader/LayoutReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/LevelDesign.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shopping/ListViewLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/ListViewReader/ListViewReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LoadScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/LoadingBarReader/LoadingBarReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/LocalStorageUtil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/NoRepeatRandom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/trigger/ObjectFactory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/PageViewReader/PageViewReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external/pluginx/Plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/README.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/failure/ReliveDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/SceneReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/ScrollViewReader/ScrollViewReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/sprite/ShopSkillSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shopping/ShoppingScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shopping/SkillListItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/SliderReader/SliderReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/spine/Spine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/SpritesPropertyDefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/SpritesWebGL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/start/StartScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/TargetGenerator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/task/TaskIndicateScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/sprite/TaskNumberSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/TextFieldReader/TextFieldReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/textures/TexturesPropertyDefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/textures/TexturesWebGL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/theme_map/ThemeMapScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/theme_select/ThemeProcessDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/theme_select/ThemeScrollLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/theme_select/ThemeSelectScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/theme_select/ThemeSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/sprite/ThingSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/layer/ThingsLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/sprite/TimingSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/sprite/TipSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/support/TransformUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/trigger/TriggerBase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/trigger/TriggerMng.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/trigger/TriggerObj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UICheckBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/layouts/UIHBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/system/UIHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIImageView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/layouts/UILayout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/layouts/UILayoutManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/layouts/UILayoutParameter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/UIListView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UILoadingBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/UIPageView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/layouts/UIRelativeBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIRichText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/UIScrollView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UISlider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UITextAtlas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UITextBMFont.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UITextField.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/layouts/UIVBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIWidget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/WidgetReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/reader/widgetreader/WidgetReaderProtocol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/compression/ZipUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/aabb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/compression/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external/box2d/box2d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/jsdoc_toolkit/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/template/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external/chipmunk/chipmunk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/lib/cocos2d-js-v3.0-rc2-core-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/lib/cocos2d-js-v3.0-rc2-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/cocos2d_externs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/core4cc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external/pluginx/platform/facebook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external/pluginx/platform/facebook_sdk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/game.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_common.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_common.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_pause.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_pause.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_10.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_10.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_11.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_11.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_12.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_12.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_13.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_13.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_14.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_14.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_15.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_15.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_16.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_16.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_3.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_3.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_4.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_4.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_5.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_5.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_6.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_6.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_7.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_7.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_8.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_8.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/game_state_9.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/game_state_9.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/genBuildXml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/compression/gzip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/jsb_apis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/mat3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/mat4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/gl/mat4stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/gl/matrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/miniFramework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/moduleConfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/src/myApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/plane.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/project.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/project.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/publish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/quaternion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/ray2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/readme for tools.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/register/register_player.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/register/register_player.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/template/src/resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external/socketio/socket.io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/external/socketio/socket.io.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/start_char_move.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/start_char_move.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/start/start_title.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/start/start_title.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/store/store.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/store/store.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/task_indicate.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/task_indicate.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/themeselect/theme.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/themeselect/theme.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/theme_map/theme_map_3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/theme_map/theme_map_3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/themeselect/themechoose.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/themeselect/themechoose.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/game/thing_images.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/game/thing_images.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish/html5/res/task/things_infor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/task/things_infor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/utility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/vec2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/vec3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/vec4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/compression/zlib.min.js" />
+    </list>
+    <list id="b4d55429-d98b-4b3d-9d87-a970022d901c" name="Failed commit: Default" comment="修改了大量bug">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cocos-project.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.js" />
+    </list>
+    <list id="51966f57-f66b-4042-98e2-b7fa6dd64510" name="Failed commit: Failed commit: Default" comment="修改了大量bug">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project.json" />
+    </list>
+    <list id="cffdde1c-bd0e-406f-b290-7d28ffca3b7b" name="Failed commit: Failed commit: Failed commit: Default" comment="修改了大量bug" />
+    <list id="0fe8b944-b579-4aff-bdc1-3830fea6469d" name="Failed commit: Failed commit: Failed commit: Failed commit: Default" comment="修改了大量bug" />
+    <ignored path="FindYourSister.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="FindYourSister" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="LoadScene.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LoadScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="2500">
+              <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameScene.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/game/GameScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3803681" vertical-offset="2625" max-vertical-offset="6825">
+              <caret line="60" column="51" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThemeSelectScene.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/theme_select/ThemeSelectScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="2050">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThemeMapScene.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/theme_map/ThemeMapScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="2725">
+              <caret line="19" column="64" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelpLayer.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/start/HelpLayer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3372" max-vertical-offset="6300">
+              <caret line="240" column="32" selection-start-line="240" selection-start-column="32" selection-end-line="240" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GamePauseLayer.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/layer/GamePauseLayer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="3050">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartScene.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/start/StartScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3235" max-vertical-offset="4050">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThingsLayer.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/layer/ThingsLayer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6350" max-vertical-offset="6775">
+              <caret line="254" column="4" selection-start-line="254" selection-start-column="4" selection-end-line="254" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameStateLayer.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/layer/GameStateLayer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3375" max-vertical-offset="6250">
+              <caret line="135" column="20" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="game.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publish/html5/game.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="28149" max-vertical-offset="29500">
+              <caret line="1133" column="409" selection-start-line="1133" selection-start-column="409" selection-end-line="1133" selection-end-column="409" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/game/sprite/WaveNumberSprite.js" />
+        <option value="$PROJECT_DIR$/src/util/NoRepeatRandom.js" />
+        <option value="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteFrameCache.js" />
+        <option value="$PROJECT_DIR$/src/game/sprite/TipSprite.js" />
+        <option value="$PROJECT_DIR$/res/task/things_infor.txt" />
+        <option value="$PROJECT_DIR$/res/game/thing_images.json" />
+        <option value="$PROJECT_DIR$/src/game/sprite/TaskNumberSprite.js" />
+        <option value="$PROJECT_DIR$/src/game_pause/GamePauseScene.js" />
+        <option value="$PROJECT_DIR$/src/game/sprite/PauseSkillSprite.js" />
+        <option value="$PROJECT_DIR$/src/game/pause/PauseSkillSprite.js" />
+        <option value="$PROJECT_DIR$/src/game/pause/PauseCoinSprite.js" />
+        <option value="$PROJECT_DIR$/src/game/pause/ShopSkillSprite.js" />
+        <option value="$PROJECT_DIR$/src/shopping/shoppingScene.js" />
+        <option value="$PROJECT_DIR$/src/register/RegisterScene.js" />
+        <option value="$PROJECT_DIR$/src/shopping/ListViewLayer.js" />
+        <option value="$PROJECT_DIR$/src/shopping/SkillListItem.js" />
+        <option value="$PROJECT_DIR$/src/player_infor/PlayerInforScene.js" />
+        <option value="$PROJECT_DIR$/res/theme_map/theme_map_3.json" />
+        <option value="$PROJECT_DIR$/src/game/sprite/CoinSprite.js" />
+        <option value="$PROJECT_DIR$/src/theme_select/developingDialog.js" />
+        <option value="$PROJECT_DIR$/src/resource.js" />
+        <option value="$PROJECT_DIR$/src/task/TaskIndicateScene.js" />
+        <option value="$PROJECT_DIR$/src/theme_select/ThemeProcessDialog.js" />
+        <option value="$PROJECT_DIR$/src/start/StartScene.js" />
+        <option value="$PROJECT_DIR$/src/shopping/ShoppingScene.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/src/game/TargetGenerator.js" />
+        <option value="$PROJECT_DIR$/frameworks/cocos2d-html5/moduleConfig.json" />
+        <option value="$PROJECT_DIR$/publish/html5/sourcemap" />
+        <option value="$PROJECT_DIR$/publish/html5/index.html" />
+        <option value="$PROJECT_DIR$/publish/html5/game.min.js" />
+        <option value="$PROJECT_DIR$/src/util/LocalStorageUtil.js" />
+        <option value="$PROJECT_DIR$/src/theme_select/ThemeSprite.js" />
+        <option value="$PROJECT_DIR$/src/start/HelpLayer.js" />
+        <option value="$PROJECT_DIR$/src/theme_map/ThemeMapScene.js" />
+        <option value="$PROJECT_DIR$/src/game/layer/GamePauseLayer.js" />
+        <option value="$PROJECT_DIR$/src/game/sprite/BasicSkillSprite.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/project.json" />
+        <option value="$PROJECT_DIR$/src/game/sprite/ThingSprite.js" />
+        <option value="$PROJECT_DIR$/src/game/layer/ThingsLayer.js" />
+        <option value="$PROJECT_DIR$/src/game/layer/GameStateLayer.js" />
+        <option value="$PROJECT_DIR$/src/game/GameScene.js" />
+        <option value="$PROJECT_DIR$/src/game/sprite/TimingSprite.js" />
+        <option value="$PROJECT_DIR$/src/game/LevelDesign.js" />
+        <option value="$PROJECT_DIR$/src/game/failure/GameFailureScene.js" />
+        <option value="$PROJECT_DIR$/src/game/failure/ReliveDialog.js" />
+        <option value="$PROJECT_DIR$/src/theme_select/DevelopingDialog.js" />
+        <option value="$PROJECT_DIR$/src/util/GameConfig.js" />
+        <option value="$PROJECT_DIR$/src/theme_select/ThemeSelectScene.js" />
+        <option value="$PROJECT_DIR$/src/theme_select/ThemeScrollLayer.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1288" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme_select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme_map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="start" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindYourSister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FindYourSister_full" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Cocos2d_JS\FindYourSister\res\theme_map" />
+      <recent name="E:\Cocos2d_JS\FindYourSister\src" />
+      <recent name="E:\Cocos2d_JS\FindYourSister\res\themeselect" />
+      <recent name="E:\Cocos2d_JS\FindYourSister\res\store" />
+      <recent name="E:\Cocos2d_JS\FindYourSister\src\shopping" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Cocos2d_JS\FindYourSister\res\theme_map" />
+      <recent name="E:\Cocos2d_JS\FindYourSister\src\game\sprite" />
+      <recent name="E:\Cocos2d_JS\FindYourSister\src\game\pause" />
+      <recent name="E:\Cocos2d_JS\FindYourSister\res\game" />
+      <recent name="E:\Cocos2d_JS\FindYourSister\res\task" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myAutoUpdateAfterCommit="true" cleanupOnStartRun="true">
+    <configuration>C:\Documents and Settings\yicha\Application Data\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Cocos2d_JS\FindYourSister" />
+          <option name="myCopyRoot" value="E:\Cocos2d_JS\FindYourSister" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Cocos2d_JS\FindYourSister\.idea" />
+          <option name="myCopyRoot" value="E:\Cocos2d_JS\FindYourSister\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Cocos2d_JS\FindYourSister" />
+          <option name="myCopyRoot" value="E:\Cocos2d_JS\FindYourSister" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ad9fb32-051d-47e8-8bb2-c008279f994a" name="Default" comment="" />
+      <created>1407204291390</created>
+      <updated>1407204291390</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1288" height="1002" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6888634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32416952" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25416997" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21445592" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Properties" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39265212" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6888634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Properties" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32416952" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39265212" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25416997" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13423352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="初始化提交" />
+    <MESSAGE value="修改了大量bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了大量bug" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/res/theme_map/theme_map_9.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/labelttf/CCLabelTTF.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3329223" vertical-offset="28855" max-vertical-offset="30350">
+          <caret line="1189" column="12" selection-start-line="1189" selection-start-column="12" selection-end-line="1189" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shopping/ShoppingScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1501" max-vertical-offset="2850">
+          <caret line="78" column="83" selection-start-line="78" selection-start-column="83" selection-end-line="78" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme_select/ThemeProcessDialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1900">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/CCBoot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.40816328" vertical-offset="30515" max-vertical-offset="46250">
+          <caret line="1207" column="47" selection-start-line="1207" selection-start-column="47" selection-end-line="1207" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDirector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.50780314" vertical-offset="10248" max-vertical-offset="22850">
+          <caret line="393" column="7" selection-start-line="393" selection-start-column="7" selection-end-line="393" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/task/things_infor.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15525">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/game/game_bg_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/theme_map/theme_map_3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task/TaskIndicateScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8235294" vertical-offset="3114" max-vertical-offset="4000">
+          <caret line="152" column="21" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/theme_map/theme_map_3.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-243.38235" vertical-offset="0" max-vertical-offset="8600">
+          <caret line="331" column="6" selection-start-line="331" selection-start-column="6" selection-end-line="331" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/game/thing_images.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6764705" vertical-offset="0" max-vertical-offset="500">
+          <caret line="973" column="0" selection-start-line="973" selection-start-column="0" selection-end-line="973" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/sprite/ShopSkillSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="925">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/sprite/BasicSkillSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="853" max-vertical-offset="1675">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/NoRepeatRandom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/menus/CCMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39975992" vertical-offset="14492" max-vertical-offset="15325">
+          <caret line="617" column="8" selection-start-line="617" selection-start-column="8" selection-end-line="617" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/LocalStorageUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2612293" vertical-offset="879" max-vertical-offset="2850">
+          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/sprite/CoinSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0047281324" vertical-offset="379" max-vertical-offset="1225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shopping/ListViewLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1768" max-vertical-offset="3850">
+          <caret line="82" column="4" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/layers/CCLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4405762" vertical-offset="1500" max-vertical-offset="21800">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/tools/template/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7616488" vertical-offset="0" max-vertical-offset="625">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cocos-project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="523">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/sprite/TaskNumberSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1450">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCNode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16530" max-vertical-offset="63625">
+          <caret line="702" column="4" selection-start-line="702" selection-start-column="4" selection-end-line="702" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/TargetGenerator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2300">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/sprite/TimingSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0933806" vertical-offset="0" max-vertical-offset="2050">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/sprite/ThingSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61583924" vertical-offset="429" max-vertical-offset="1275">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/LevelDesign.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6602641" vertical-offset="2942" max-vertical-offset="5050">
+          <caret line="197" column="54" selection-start-line="197" selection-start-column="54" selection-end-line="197" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/failure/ReliveDialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37943262" vertical-offset="904" max-vertical-offset="1850">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEventManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.7394958" vertical-offset="6448" max-vertical-offset="22875">
+          <caret line="123" column="29" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/failure/GameFailureScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1500" max-vertical-offset="2500">
+          <caret line="77" column="35" selection-start-line="77" selection-start-column="35" selection-end-line="77" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/menus/CCMenuItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-123.72" vertical-offset="15439" max-vertical-offset="34500">
+          <caret line="865" column="8" selection-start-line="865" selection-start-column="6" selection-end-line="865" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.264706" vertical-offset="10" max-vertical-offset="800">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/GameConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59101653" vertical-offset="0" max-vertical-offset="846">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme_select/DevelopingDialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14302601" vertical-offset="279" max-vertical-offset="1425">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/moduleConfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5206508" vertical-offset="5259" max-vertical-offset="10225">
+          <caret line="227" column="8" selection-start-line="227" selection-start-column="8" selection-end-line="227" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9586289" vertical-offset="4443" max-vertical-offset="10800">
+          <caret line="244" column="17" selection-start-line="244" selection-start-column="17" selection-end-line="244" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="1325">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="350">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme_select/ThemeScrollLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="5525">
+          <caret line="59" column="15" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme_select/ThemeSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="376" max-vertical-offset="1200">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme_select/ThemeSelectScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="2050">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoadScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="643" max-vertical-offset="2500">
+          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme_map/ThemeMapScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="2725">
+          <caret line="19" column="64" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/layer/GamePauseLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1926" max-vertical-offset="3050">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish/html5/game.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="28149" max-vertical-offset="29500">
+          <caret line="1133" column="409" selection-start-line="1133" selection-start-column="409" selection-end-line="1133" selection-end-column="409" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/layer/GameStateLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4545" max-vertical-offset="6250">
+          <caret line="135" column="20" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/layer/ThingsLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4610" max-vertical-offset="6775">
+          <caret line="254" column="4" selection-start-line="254" selection-start-column="4" selection-end-line="254" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/start/StartScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="4050">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/start/HelpLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4197" max-vertical-offset="6300">
+          <caret line="240" column="32" selection-start-line="240" selection-start-column="32" selection-end-line="240" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3803681" vertical-offset="2625" max-vertical-offset="6825">
+          <caret line="60" column="51" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

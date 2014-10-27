@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<project name="Javascript compress project" basedir="E:\Cocos2d_JS\HappyEliminate" default="compile">
+
+    <taskdef name="jscomp" classname="com.google.javascript.jscomp.ant.CompileTask"
+             classpath="E:\Cocos2d_JS\cocos2d-js-v3.1\tools\cocos2d-console\bin\..\plugins\project_compile\build_web/bin/compiler-1.7.jar"/>
+
+    <target name="compile">
+        <jscomp compilationLevel="simple" 
+                warning="quiet"
+                debug="false" 
+                output="E:\Cocos2d_JS\HappyEliminate\publish\html5/game.min.js"
+                languagein="ECMASCRIPT5"
+                
+                >
+            <sources dir="E:\Cocos2d_JS\HappyEliminate\frameworks\cocos2d-html5">
+                <file name="CCBoot.js"/>
+                <file name="CCDebugger.js"/>
+                <file name="cocos2d/core/utils/BinaryLoader.js"/>
+                <file name="Base64Images.js"/>
+                <file name="cocos2d/core/platform/CCClass.js"/>
+                <file name="cocos2d/core/platform/CCCommon.js"/>
+                <file name="cocos2d/core/cocoa/CCGeometry.js"/>
+                <file name="cocos2d/core/platform/CCSAXParser.js"/>
+                <file name="cocos2d/core/platform/CCLoaders.js"/>
+                <file name="cocos2d/core/platform/CCConfig.js"/>
+                <file name="cocos2d/core/platform/miniFramework.js"/>
+                <file name="cocos2d/core/platform/CCMacro.js"/>
+                <file name="cocos2d/core/platform/CCTypesWebGL.js"/>
+                <file name="cocos2d/core/platform/CCTypesPropertyDefine.js"/>
+                <file name="cocos2d/core/platform/CCTypes.js"/>
+                <file name="cocos2d/core/platform/CCEGLView.js"/>
+                <file name="cocos2d/core/platform/CCScreen.js"/>
+                <file name="cocos2d/core/platform/CCVisibleRect.js"/>
+                <file name="cocos2d/core/platform/CCInputManager.js"/>
+                <file name="cocos2d/core/platform/CCInputExtension.js"/>
+                <file name="cocos2d/core/cocoa/CCAffineTransform.js"/>
+                <file name="cocos2d/core/support/CCPointExtension.js"/>
+                <file name="cocos2d/core/support/CCVertex.js"/>
+                <file name="cocos2d/core/support/TransformUtils.js"/>
+                <file name="cocos2d/core/event-manager/CCTouch.js"/>
+                <file name="cocos2d/core/event-manager/CCEvent.js"/>
+                <file name="cocos2d/core/event-manager/CCEventListener.js"/>
+                <file name="cocos2d/core/event-manager/CCEventManager.js"/>
+                <file name="cocos2d/core/event-manager/CCEventExtension.js"/>
+                <file name="cocos2d/core/renderer/RendererCanvas.js"/>
+                <file name="cocos2d/core/renderer/RendererWebGL.js"/>
+                <file name="cocos2d/core/base-nodes/BaseNodesWebGL.js"/>
+                <file name="cocos2d/core/base-nodes/BaseNodesPropertyDefine.js"/>
+                <file name="cocos2d/core/base-nodes/CCNode.js"/>
+                <file name="cocos2d/core/base-nodes/CCAtlasNode.js"/>
+                <file name="cocos2d/core/textures/TexturesWebGL.js"/>
+                <file name="cocos2d/core/textures/TexturesPropertyDefine.js"/>
+                <file name="cocos2d/core/textures/CCTexture2D.js"/>
+                <file name="cocos2d/core/textures/CCTextureCache.js"/>
+                <file name="cocos2d/core/textures/CCTextureAtlas.js"/>
+                <file name="cocos2d/core/scenes/CCScene.js"/>
+                <file name="cocos2d/core/scenes/CCLoaderScene.js"/>
+                <file name="cocos2d/core/layers/CCLayerWebGL.js"/>
+                <file name="cocos2d/core/layers/CCLayerPropertyDefine.js"/>
+                <file name="cocos2d/core/layers/CCLayer.js"/>
+                <file name="cocos2d/core/sprites/SpritesWebGL.js"/>
+                <file name="cocos2d/core/sprites/SpritesPropertyDefine.js"/>
+                <file name="cocos2d/core/sprites/CCSprite.js"/>
+                <file name="cocos2d/core/sprites/CCSpriteBatchNode.js"/>
+                <file name="cocos2d/core/sprites/CCBakeSprite.js"/>
+                <file name="cocos2d/core/sprites/CCAnimation.js"/>
+                <file name="cocos2d/core/sprites/CCAnimationCache.js"/>
+                <file name="cocos2d/core/sprites/CCSpriteFrame.js"/>
+                <file name="cocos2d/core/sprites/CCSpriteFrameCache.js"/>
+                <file name="cocos2d/core/CCConfiguration.js"/>
+                <file name="cocos2d/core/CCDirectorWebGL.js"/>
+                <file name="cocos2d/core/CCDirector.js"/>
+                <file name="cocos2d/core/CCCamera.js"/>
+                <file name="cocos2d/core/CCScheduler.js"/>
+                <file name="cocos2d/core/CCDrawingPrimitivesCanvas.js"/>
+                <file name="cocos2d/core/CCDrawingPrimitivesWebGL.js"/>
+                <file name="cocos2d/core/labelttf/LabelTTFWebGL.js"/>
+                <file name="cocos2d/core/labelttf/LabelTTFPropertyDefine.js"/>
+                <file name="cocos2d/core/labelttf/CCLabelTTF.js"/>
+                <file name="cocos2d/core/CCActionManager.js"/>
+                <file name="cocos2d/shape-nodes/CCDrawNode.js"/>
+                <file name="cocos2d/clipping-nodes/CCClippingNode.js"/>
+                <file name="cocos2d/actions/CCAction.js"/>
+                <file name="cocos2d/actions/CCActionInterval.js"/>
+                <file name="cocos2d/actions/CCActionInstant.js"/>
+                <file name="cocos2d/actions/CCActionCamera.js"/>
+                <file name="cocos2d/actions/CCActionEase.js"/>
+                <file name="cocos2d/actions/CCActionCatmullRom.js"/>
+                <file name="cocos2d/actions/CCActionTween.js"/>
+                <file name="cocos2d/labels/CCLabelAtlas.js"/>
+                <file name="cocos2d/labels/CCLabelBMFont.js"/>
+                <file name="cocos2d/menus/CCMenuItem.js"/>
+                <file name="cocos2d/menus/CCMenu.js"/>
+                <file name="cocos2d/render-texture/CCRenderTexture.js"/>
+                <file name="cocos2d/progress-timer/CCProgressTimer.js"/>
+                <file name="cocos2d/progress-timer/CCActionProgressTimer.js"/>
+                <file name="extensions/gui/control-extension/CCControl.js"/>
+                <file name="extensions/gui/control-extension/CCControlButton.js"/>
+                <file name="extensions/gui/control-extension/CCControlUtils.js"/>
+                <file name="extensions/gui/control-extension/CCInvocation.js"/>
+                <file name="extensions/gui/control-extension/CCScale9Sprite.js"/>
+                <file name="extensions/gui/control-extension/CCMenuPassive.js"/>
+                <file name="extensions/gui/control-extension/CCControlSaturationBrightnessPicker.js"/>
+                <file name="extensions/gui/control-extension/CCControlHuePicker.js"/>
+                <file name="extensions/gui/control-extension/CCControlColourPicker.js"/>
+                <file name="extensions/gui/control-extension/CCControlSlider.js"/>
+                <file name="extensions/gui/control-extension/CCControlSwitch.js"/>
+                <file name="extensions/gui/control-extension/CCControlStepper.js"/>
+                <file name="extensions/gui/control-extension/CCControlPotentiometer.js"/>
+                <file name="extensions/gui/scrollview/CCScrollView.js"/>
+                <file name="extensions/gui/scrollview/CCSorting.js"/>
+                <file name="extensions/gui/scrollview/CCTableView.js"/>
+                <file name="extensions/ccpool/CCPool.js"/>
+
+            </sources>
+            <sources dir="${basedir}">
+                <file name="src/resource.js"/>
+                <file name="src/util/GameConfig.js"/>
+                <file name="src/LoadScene.js"/>
+                <file name="src/game/GameScene.js"/>
+                <file name="src/game/layer/AnimalsLayer.js"/>
+                <file name="src/game/sprite/AnimalSprite.js"/>
+                <file name="src/game/layer/GuideLayer.js"/>
+                <file name="src/game/layer/HelpLayer.js"/>
+                <file name="src/game/layer/GameStatusLayer.js"/>
+                <file name="src/game/layer/TaskHelperLayer.js"/>
+                <file name="src/game/layer/DownloadAppLayer.js"/>
+                <file name="main.js"/>
+
+            </sources>
+        </jscomp>
+    </target>
+</project>

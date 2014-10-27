@@ -1,0 +1,24 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/scene/StartScene.js",
+        "src/scene/ThemeScene.js",
+        "src/scene/CheckpointScene.js",
+        "src/scene/GameScene.js",
+        "src/sprite/WaterDropSprite.js",
+        "src/sprite/WaterBombSprite.js",
+        "src/LocalStorageUtil.js",
+        "src/globals.js"
+    ]
+}

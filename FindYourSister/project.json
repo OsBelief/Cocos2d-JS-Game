@@ -1,0 +1,47 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/LoadScene.js",
+        "src/start/StartScene.js",
+        "src/start/HelpLayer.js",
+        "src/util/GameConfig.js",
+        "src/util/LocalStorageUtil.js",
+        "src/util/NoRepeatRandom.js",
+        "src/theme_select/ThemeSelectScene.js",
+        "src/theme_select/ThemeSprite.js",
+        "src/theme_select/ThemeScrollLayer.js",
+        "src/theme_select/DevelopingDialog.js",
+        "src/theme_select/ThemeProcessDialog.js",
+        "src/theme_map/ThemeMapScene.js",
+        "src/task/TaskIndicateScene.js",
+        "src/game/GameScene.js",
+        "src/game/LevelDesign.js",
+        "src/game/TargetGenerator.js",
+        "src/game/layer/GameStateLayer.js",
+        "src/game/layer/ThingsLayer.js",
+        "src/game/layer/GamePauseLayer.js",
+        "src/game/sprite/TipSprite.js",
+        "src/game/sprite/TaskNumberSprite.js",
+        "src/game/sprite/BasicSkillSprite.js",
+        "src/game/sprite/CoinSprite.js",
+        "src/game/sprite/TimingSprite.js",
+        "src/game/sprite/ThingSprite.js",
+        "src/game/sprite/ShopSkillSprite.js",
+        "src/game/failure/GameFailureScene.js",
+        "src/game/failure/ReliveDialog.js",
+        "src/shopping/ShoppingScene.js",
+        "src/shopping/ListViewLayer.js",
+        "src/shopping/SkillListItem.js"
+    ]
+}
