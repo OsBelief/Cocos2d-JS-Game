@@ -7,12 +7,12 @@ var DownloadAppLayer = cc.LayerColor.extend({
         cc.spriteFrameCache.addSpriteFrames(res.download_plist);
         this.setColor(cc.color(0, 0, 0, 0));
         this.setOpacity(120);
-
+        var winSize = WinSize;
         // 背景
         var bgSprite = new cc.Sprite("#download_menu.png");
         bgSprite.attr({
-            x: WinSize.width / 2,
-            y: WinSize.height / 2,
+            x: winSize.width / 2,
+            y: winSize.height / 2,
             scale: 0.8
         });
         this.addChild(bgSprite);
@@ -33,16 +33,16 @@ var DownloadAppLayer = cc.LayerColor.extend({
         var title_1 = new cc.LabelTTF("玩的开心吧!", "Arial", 40);
         title_1.setColor(cc.color(155, 155, 155, 0));
         title_1.attr({
-            x: WinSize.width / 2,
-            y: WinSize.height / 2 + 50
+            x: winSize.width / 2,
+            y: winSize.height / 2 + 50
         });
         this.addChild(title_1);
         // 更多精彩内容请下载官方App
         var title_2 = new cc.LabelTTF("更多精彩内容请下载官方app", "Arial", 24);
         title_2.setColor(cc.color(255, 38, 38, 0));
         title_2.attr({
-            x: WinSize.width / 2,
-            y: WinSize.height / 2 - 10
+            x: winSize.width / 2,
+            y: winSize.height / 2 - 10
         });
         this.addChild(title_2);
         // Android下载
@@ -73,8 +73,8 @@ var DownloadAppLayer = cc.LayerColor.extend({
         });
         var menu = new cc.Menu(backMenuItem, androidMenuItem, appStoreMenuItem);
         menu.attr({
-            x: WinSize.width / 2,
-            y: WinSize.height / 2
+            x: winSize.width / 2,
+            y: winSize.height / 2
         });
         this.addChild(menu);
     },
