@@ -1,3 +1,5 @@
+A new Gaming Experience Begins-
+
 #Cocos2d-JS-Game
 
 Cocos2d-JS游戏引擎开发的HTML5小游戏(PS：这几款游戏都不是原创的，是原有游戏的JS版本)
@@ -13,4 +15,6 @@ Cocos2d-JS游戏引擎开发的HTML5小游戏(PS：这几款游戏都不是原�
 **游戏描述：**经典手游《找你妹》的JS版本，玩法和App版的一样，即找到符合任务要求的东西。
 ## HappyEliminate
 **游戏描述：**这是一款三消类游戏，是《开心消消乐》的JS版本，已经完成了三消游戏的主要逻辑，并且实现了直线消除的特效。
+
+Hope you liked it.
 
