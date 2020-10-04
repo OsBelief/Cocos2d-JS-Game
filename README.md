@@ -1,4 +1,4 @@
-#Cocos2d-JS-Game
+#CoCos2d-JS-Game
 
 Cocos2d-JS游戏引擎开发的HTML5小游戏(PS：这几款游戏都不是原创的，是原有游戏的JS版本)
 
